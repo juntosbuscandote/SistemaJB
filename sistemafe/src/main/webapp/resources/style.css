@@ -1,0 +1,21 @@
+.error {
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	color: #ff0080;
+}
+
+.modal-footer {
+	text-align: center;
+}
+
+.inputConData {
+	background-color:#f3e0ad36;
+}
+
+#listaFormaPago + .select2 .select2-selection__rendered {  background-color: #f3e0ad36; }
+#filtrarVendedorNroV + .select2 .select2-selection__rendered {  background-color: #f3e0ad36; }
+#listaMotivoCre + .select2 .select2-selection__rendered {  background-color: #f3e0ad36; }
+#listaMotivoDeb + .select2 .select2-selection__rendered {  background-color: #f3e0ad36; }
+#listaComprobante + .select2 .select2-selection__rendered {  background-color: #f3e0ad36; }
+#listaCatDetIndicador + .select2 .select2-selection__rendered {  background-color: #f3e0ad36; }
